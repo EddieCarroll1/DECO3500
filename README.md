@@ -2,6 +2,7 @@
 Welcome to team Broccoli
 we designed a RoboDog, an interactive dog that helps you rethink your diet and nutritional choices.
 
+
 ## Documentation and Design process
 
 ## Installation
