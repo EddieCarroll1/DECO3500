@@ -2,6 +2,17 @@
 Welcome to team Broccoli
 we designed a RoboDog, an interactive dog that helps you rethink your diet and nutritional choices.
 
+Team members:
+
+Danni Li — 45008753
+
+Edward Carroll — 44806336
+
+Mingyang LYU — 45037481
+
+Ziyi Xu — 45480171
+
+
 
 ## Documentation and Design process
 
