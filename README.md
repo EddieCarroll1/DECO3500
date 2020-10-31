@@ -15,6 +15,7 @@ Ziyi Xu — 45480171
 
 
 ## Documentation and Design process
+Our team put the documentation into wiki:https://github.com/EddieCarroll1/DECO3500/wiki
 
 ## Installation
 Robodog's installation is built across two different code bases, Arduino and Processing. In order to run the code, you need a to have your own dog,
