@@ -14,3 +14,5 @@ Once that was attached and powered an IR remote is used to simulate each of the 
 
 ## Ownership
 All aspects both physical and virtual were built and programmed by: </br> Edward Carroll S4480633.   
+
+## Design Process
