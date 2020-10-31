@@ -1,5 +1,8 @@
-# DECO3500
-Welcome to RoboDog, an interactive dog that helps you rethink your diet and nutritional choices.
+# Team Broccoli
+Welcome to team Broccoli
+we designed a RoboDog, an interactive dog that helps you rethink your diet and nutritional choices.
+
+## Documentation and Design process
 
 ## Installation
 Robodog's installation is built across two different code bases, Arduino and Processing. In order to run the code, you need a to have your own dog,
@@ -15,4 +18,4 @@ Once that was attached and powered an IR remote is used to simulate each of the 
 ## Ownership
 All aspects both physical and virtual were built and programmed by: </br> Edward Carroll S4480633.   
 
-## Design Process
+
